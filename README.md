@@ -3,16 +3,22 @@
 </br>
 
 ## :pushpin: Intro
-프로젝트 기간동안 프론트앤드와 백앤드 모두 경험을 하였습니다. 
-
+><b>SKILL & STACK</b><br>
+>
+><b>FrontEnd</b><br>
+>JSP, React, TailwindCSS
+>
+><b>BackEnd</b><br>
+>JAVA / JSP / Python / Spring-boot / 전자정부프레임워크
+>
+><b>DataBase</b><br>
+>MySQL, Oracle
+>
+><b>형상관리 및 Server</b><br>
+>Git, AWS, Apache Tomcat
+>
 </br>
 
-
-## :pushpin: Contact
-- 이메일: cksgur2297@naver.com
-- 블로그: 
-- 깃헙: https://github.com/hyuk3001
-</br>
 
 - 프로젝트 작성시 
 - 프로젝트 명
@@ -21,13 +27,6 @@
 - 프로젝트 개발 성과
 - 기여도
 
-## :pushpin: Education
-> * 2023.09.27 ~ 2024.04.17
->   스마트인재개발원 1040시간(6개월) 언어지능기반 분석서비스모델 개발자과정 수료
->   * 3번의 프로젝트 :
-<details>
-<summary><b>프로젝트 펼치기</b></summary>
-<div markdown="1">
 
 ## :pushpin: Projects
 ### 1. [실전 프로젝트](https://github.com/Project-TokTalk)
@@ -71,7 +70,16 @@
 >
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
 
-></div>
-></details>
 
->   * 2015.03 ~ 2019.02 목포해양대학교 기관해양경찰학부 졸업
+
+## :pushpin: Education
+> * 2015.03 ~ 2019.02 목포해양대학교 기관해양경찰학부 졸업
+> * 2023.09.27 ~ 2024.04.17
+>   스마트인재개발원 1040시간(6개월) 언어지능기반 분석서비스모델 개발자과정 수료
+>   * 3번의 프로젝트 진행
+> 
+## :pushpin: Contact
+- 이메일: cksgur2297@naver.com
+- 블로그: 
+- 깃헙: https://github.com/hyuk3001
+</br>
