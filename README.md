@@ -20,14 +20,6 @@
 </br>
 
 
-- 프로젝트 작성시 
-- 프로젝트 명
-- 나의 역할 & 역량키워드
-- 프로젝트 세부 설명
-- 프로젝트 개발 성과
-- 기여도
-
-
 ## :pushpin: Projects
 ### 1. [실전 프로젝트](https://github.com/Project-TokTalk)
 >LLM과 번역 API를 이용하여 다국어를 지원하는 공공기관 챗봇 서비스 
@@ -38,10 +30,14 @@
 >
 >MySQL / React / Tailwind CSS
 >
->맡은 역할 : React와 Tailwind CSS를 활용한 각 페이지 UI/UX 구현
+>맡은 역할 : React와 Tailwind CSS를 활용한 각 페이지 UI/UX 구현<br>
+>            관리자 대시보드 페이지 <br>
+>            react-chatbot-kit를 활용한 챗봇 구현 및 버튼식 시나리오 구현
 >
->[프로젝트 상세 설명](https://github.com/Project-TokTalk) 참고
-
+>[프로젝트 상세 설명]<br>
+>[Frontend](https://github.com/Project-TokTalk/React)참고<br>
+>[Backend](https://github.com/Project-TokTalk/backend)참고<br>
+>[Modeling](https://github.com/Project-TokTalk/Modeling)참고
 ---
 
 ### 2. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
@@ -52,10 +48,9 @@
 >Java 1.8 / Spring Framework / Maven / MyBatis
 >MySQL / HTML / CSS
 >
->맡은 역할 : 
+>맡은 역할 : 각 페이지 Backend 기능 구현 및 비동기 연결
 >
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
-
 ---
 
 ### 3. [미니 프로젝트](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
@@ -73,13 +68,11 @@
 
 
 ## :pushpin: Education
-> * 2015.03 ~ 2019.02 목포해양대학교 기관해양경찰학부 졸업
 > * 2023.09.27 ~ 2024.04.17
 >   스마트인재개발원 1040시간(6개월) 언어지능기반 분석서비스모델 개발자과정 수료
 >   * 3번의 프로젝트 진행
 > 
 ## :pushpin: Contact
 - 이메일: cksgur2297@naver.com
-- 블로그: 
 - 깃헙: https://github.com/hyuk3001
 </br>
