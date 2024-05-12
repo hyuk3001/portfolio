@@ -48,7 +48,7 @@
 >Java 1.8 / Spring Framework / Maven / MyBatis
 >MySQL / HTML / CSS
 >
->맡은 역할 : 각 페이지 Backend 기능 구현 및 비동기 연결
+>맡은 역할 : 프로젝트의 Backend 기능 구현
 >
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
 ---
