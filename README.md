@@ -34,7 +34,7 @@
 >            관리자 대시보드 페이지 <br>
 >            react-chatbot-kit를 활용한 챗봇 구현 및 버튼식 시나리오 구현
 >
->[프로젝트 상세 설명]<br>
+>[프로젝트 상세 설명](https://github.com/Project-TokTalk/backend)<br>
 >[Frontend](https://github.com/Project-TokTalk/React)참고<br>
 >[Backend](https://github.com/Project-TokTalk/backend)참고<br>
 >[Modeling](https://github.com/Project-TokTalk/Modeling)참고
