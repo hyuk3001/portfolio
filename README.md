@@ -21,7 +21,7 @@
 
 
 ## :pushpin: Projects
-### 1. [실전 프로젝트](https://github.com/Project-TokTalk)
+### 1. [실전 프로젝트](https://github.com/Project-TokTalk/backend)
 >LLM과 번역 API를 이용하여 다국어를 지원하는 공공기관 챗봇 서비스 
 >개발 기간: 2023.03.11 ~ 2024.04.15  
 >  
