@@ -26,7 +26,7 @@
 >개발 기간: 2023.03.11 ~ 2024.04.15  
 >  
 >기술 스택:  
->Java 17 / Spring Boot / Spring Framework / Spring Security / Gradle
+>Java 17 / Spring Boot / Spring Framework
 >
 >MySQL / React / Tailwind CSS
 >
