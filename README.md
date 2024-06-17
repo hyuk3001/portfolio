@@ -63,7 +63,7 @@
 >
 >맡은 역할 : Python을 이용한 멜론 TOP100 차트 크롤링 및 내용 시각화
 >
->[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
+>[프로젝트 상세 설명](https://www.notion.so/4bd484a3c16c441885fd707b1876076d?pvs=4) 참고
 
 
 
