@@ -46,7 +46,7 @@
 >  
 >기술 스택:  
 >Java 1.8 / Spring Framework / Maven / MyBatis
->MySQL / HTML / CSS
+>MySQL / Python 
 >
 >맡은 역할 : 프로젝트의 Backend 기능 구현
 >
