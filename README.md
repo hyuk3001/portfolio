@@ -53,19 +53,6 @@
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
 ---
 
-### 3. [미니 프로젝트](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
->멜론 TOP100 차트 크롤링 및 관련 내용 시각화
-> 
->개발 기간: 2023.10.01 ~ 2023.11.05 
->  
->기술 스택:  
->Python / HTML / CSS / Bootstrap
->
->맡은 역할 : Python을 이용한 멜론 TOP100 차트 크롤링 및 내용 시각화
->
->[프로젝트 상세 설명](https://www.notion.so/4bd484a3c16c441885fd707b1876076d?pvs=4) 참고
-
-
 
 ## :pushpin: Education
 > * 2023.09.27 ~ 2024.04.17
