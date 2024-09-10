@@ -29,8 +29,40 @@
 </br>
 
 
+
 # :pushpin: Projects
-## 1. [실전 프로젝트](https://github.com/Project-TokTalk/backend)
+## 1. [실전 프로젝트](https://github.com/2024-AISCHOOL-WEB2B/coorde.git)
+>통계적 기법을 이용한 몸에 맞는 의류 추천 서비스 <br>
+>개발 기간: 2024.07.02 ~ 2024.08.02
+>  
+> ### 사용 기술  
+> - Java, JS, Spring MVC, Mybatis
+> - MySQL, Python, Apache Tomcat
+>
+> ### 맡은 역할(Backend 개발)
+> **\* 페이지 메인기능 구현**
+> - 의류페이지 정렬, 필터링 기능 구현
+> - 사용자 및 관리자 페이지의 문의사항 확인 구현
+> - 장바구니페이지 별점기능 구현
+> 
+>
+> **\* 주요 페이지**<br><br>
+> ![메인페이지](/mainpage.png)
+> ![마이페이지](/mypage.png)
+>
+> ### 트러블 슈팅 
+> ![에러](/error.png)
+>
+>JSP 파일에서 자바스크립트의 리터럴(`)을 사용하여 변수 값을 삽입하려고 할 때 에러 발생<br>
+>${}구문이 JSP의 EL식으로 해석되어 오류 발생 원인으로 JSP 내장 표현식으로 처리하려 하기 때문에 발생함<br>
+>JSP에서 자바스크립트의 리터럴을 사용하는 경우 ${} 앞에 \(역슬래시)를 추가해, <br>
+>JSP가 이를 자바스크립트 구문으로 인식하도록 적용하여 해결<br>
+> 
+>[프로젝트 바로가기](https://github.com/2024-AISCHOOL-WEB2B/coorde.git)<br>
+
+---
+# :pushpin: Projects
+## 2. [실전 프로젝트](https://github.com/Project-TokTalk/backend)
 >LLM과 번역 API를 이용하여 다국어를 지원하는 공공기관 챗봇 서비스 <br>
 >개발 기간: 2023.03.11 ~ 2024.04.15  
 >  
@@ -65,7 +97,7 @@
 >[Modeling](https://github.com/Project-TokTalk/Modeling)
 ---
 
-## 2. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
+## 3. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
 >선호도 알고리즘 기반 계절별, 상황별 코디 추천
 >개발 기간: 2023.01.09 ~ 2023.01.24  
 >  
