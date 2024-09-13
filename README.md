@@ -14,7 +14,7 @@
 > - JAVA
 > - JSP
 > - Python
-> - Spring-boot
+> - Spring Framework
 > - 전자정부프레임워크
 >
 >**DataBase**<br>
