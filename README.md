@@ -89,7 +89,7 @@
 - **초기 S3 연결 방식**:  
   - AWS SDK 1.x를 사용하여 **S3와 Spring Boot를 독립적으로 연결**
 - **문제 발생**:  
-  - **AWS Parameter Store**를 도입하면서 **민감한 정보를 안전하게 저장**하려고 했으나 **Spring Cloud AWS와의 호환성 문제**로 Parameter Store에 접근하지 못하는 현상 발생
+  - **AWS Parameter Store**를 도입하면서 **민감한 정보를 안전하게 저장**하려고 했으나 <br>**Spring Cloud AWS와의 호환성 문제**로 Parameter Store에 접근하지 못하는 현상 발생
     ![image (2)](https://github.com/user-attachments/assets/4b3382c8-6c4b-4359-a46f-3c3420ccced1)
 - **원인 분석**:  
   - Spring Boot 3.2.x는 **Spring Cloud AWS 3.1.x 이상**과 호환되며, 이 조합에서 **AWS SDK 2.x** 사용이 필수였음.  
@@ -118,10 +118,6 @@
 - 의류페이지 정렬, 필터링 기능 구현  
 - 사용자 및 관리자 페이지의 **문의사항 확인** 구현  
 - **장바구니 페이지** 별점 기능 구현  
-
-#### 주요 페이지
-![메인페이지](/mainpage.png)  
-![마이페이지](/mypage.png)
 
 ---
 
