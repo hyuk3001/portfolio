@@ -105,11 +105,18 @@
 
 ## 2. [실전 프로젝트 - 의류 추천 서비스](https://github.com/2024-AISCHOOL-WEB2B/coorde.git)
 **통계적 기법을 이용한 몸에 맞는 의류 추천 서비스**  
-**개발 기간**: 2024.07.02 ~ 2024.08.02
+**개발 기간**: 2024.07.22 ~ 2024.08.02
 
-### 🔧 **사용 기술**
-- **Java**, **JS**, **Spring MVC**, **Mybatis**  
-- **MySQL**, **Python**, **Apache Tomcat**
+### 🔧 **개발 환경**
+- **Java Version**: 1.6  
+- **IDE**: Eclipse 
+- **Framework**: Spring Framework (Spring MVC)
+
+### 🌐 **기술 스택**
+- **Server**: Apache Tomcat  
+- **Database**: MySQL  
+- **WAS**: Tomcat  
+- **ORM**: MyBatis  
 
 ---
 
